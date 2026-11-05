@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this field guide, please cite it as below."
+title: "Rakazo Self-Hosting Field Guide"
+abstract: "Unofficial, tested field guide for self-hosting Rakazo (open-source Grok Bot alternative): VPS/OS/Docker compatibility matrix, verbatim install errors with causes and fixes linked to upstream issues, backup/rollback and lockout recovery."
+authors:
+  - name: "DeployButler"
+url: "https://github.com/deploybutler/rakazo-self-hosting-field-guide"
+license: CC-BY-4.0
+date-released: "2026-11-05"
